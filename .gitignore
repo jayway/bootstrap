@@ -35,3 +35,11 @@ nbproject
 .idea
 node_modules
 dist
+
+# Generated files
+docs/assets/css/bootstrap-responsive.css
+docs/assets/css/bootstrap.css
+docs/assets/js/bootstrap*.js
+docs/assets/js/jquery.js
+docs/assets/img/glyphicons-halflings-white.png
+docs/assets/img/glyphicons-halflings.png
