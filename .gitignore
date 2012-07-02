@@ -43,3 +43,4 @@ docs/assets/js/bootstrap*.js
 docs/assets/js/jquery.js
 docs/assets/img/glyphicons-halflings-white.png
 docs/assets/img/glyphicons-halflings.png
+docs/*.html
